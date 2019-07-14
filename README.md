@@ -1,3 +1,3 @@
-# scripts
+# tools
 
-Random scripts I've created for managing home/home office automation
+Random scripts, tools, configs, etc.
